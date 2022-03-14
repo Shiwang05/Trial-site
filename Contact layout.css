@@ -1,0 +1,100 @@
+h1 {
+	font-family: "Myriad Pro",  "sans-serif";
+	color: black;
+	font-size: 100px;
+	
+}
+
+h2 {
+	color: white;
+	
+}
+
+section {
+	  
+	     height: 97vh;
+	     
+	     position: relative;
+} 
+
+.heading {
+	     position: absolute;
+	     right: 0px;
+	     left: 350px;
+	     top: -30px;
+	     bottom: 0px;
+	     margin: auto;
+	    
+	   
+}
+
+.icon{
+	     position: absolute;
+	     right: 0;
+	     left: 1390px;
+	     top: 2px;
+	     bottom: 0;
+	     margin: auto;
+	    
+	  
+	
+}
+
+.myDiv1 {
+      
+
+	    max-width: 700px;
+	    width: 250px; 
+	    height: 64.5vh;
+	    margin: auto;
+	
+	    display: flex;
+	    justify-content:center;
+	    align-items:center;
+	
+	    position: absolute;
+	    right: 1507px;
+	    left: 0;
+	    top: 0px;
+	    bottom: 35px;
+	    margin: auto;
+	    
+	
+}
+
+.myDiv2 {
+        
+	     
+	     max-width: 700px;
+	     width: 250px; 
+	     height: 64.5vh;
+	     margin: auto;
+	
+	     display: flex;
+	     justify-content:center;
+	     align-items:center;
+	
+	     position: absolute;
+	     right: -1283px;
+	     left: 0;
+	     top: 0px;
+	     bottom: -105px;
+	     margin: auto;
+	    
+}
+
+.contact {
+	
+	     font-family: "Myriad Pro",  "sans-serif";
+	     color: black;
+	     font-size: 35px; 
+	    
+	     position: absolute;
+	     right: 0;
+	     left: 380px;
+	     top: 150px;
+	     bottom: 0px;
+	     margin: auto;
+	      
+}
+

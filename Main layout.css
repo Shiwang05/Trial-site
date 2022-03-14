@@ -1,0 +1,98 @@
+h1 {
+	font-family: "Myriad Pro",  "sans-serif";
+	color: black;
+	font-size: 100px;
+	
+}
+
+h2 {
+	color: white;
+	
+}
+
+
+h3 {
+	font-size: 60px;
+}
+
+a:link { text-decoration: none;}
+a:visited { text-decoration: none; color: white;}
+a:hover { text-decoration: none; }
+a:active { text-decoration: none; }
+
+section {
+	    
+	     height: 97vh;
+	     
+	     position: relative;
+} 
+
+.heading {
+	     position: absolute;
+	     right: 0px;
+	     left: 350px;
+	     top: -30px;
+	     bottom: 0px;
+	     margin: auto;
+
+}
+
+.icon{
+	     position: absolute;
+	     right: 0;
+	     left: 1390px;
+	     top: 2px;
+	     bottom: 0;
+	     margin: auto;
+	    
+	  
+	
+}
+
+.myDiv1 {
+        
+	   
+	    
+	    background-color: black;
+	    max-width: 700px;
+	    width: 466px;
+	    height: 64.5vh;
+	    margin: auto;
+	
+	    display: flex;
+	    justify-content:center;
+	    align-items:center;
+	
+	    position: absolute;
+	    right: 466px;
+	    left: 0;
+	    top: 77px;
+	    bottom: 0;
+	    margin: auto;
+	    
+	
+}
+
+.myDiv2 {
+      
+	     max-width: 700px;
+	     width: 468px;
+	     height: 64.5vh;
+	     margin: auto;
+	
+	     display: flex;
+	     justify-content:center;
+	     align-items:center;
+	
+	     position: absolute;
+	     right: 0;
+	     left: 467px;
+	     top: 77px;
+	     bottom: 0;
+	     margin: auto;
+	    
+}
+
+
+
+

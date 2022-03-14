@@ -1,0 +1,30 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{
+margin-top: 20px;
+margin-right: 30px;
+
+}
+.container ul{
+list-style:none;
+}
+.container ul li
+{
+
+width: 120px;
+text-align: center;
+float:right;
+line height:25px;
+color:#686868;
+font-size:15px;
+position: relative;
+
+}
+.container ul li:hover{
+    background-color: #F6F6F6;
+    color: #0071FF;
+	
+}
+    
+

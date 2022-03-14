@@ -1,0 +1,61 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	margin: 0;
+	padding: 0;
+	background: black;
+	background-image: url("../Main.jpg");
+	background-size: cover;
+	
+}
+
+.Container
+ {
+	position: relative;
+	top: 50px;
+	left: 50px;
+	float:right;
+	transform: translateX(-50%) translateY(-50%);
+	
+}
+
+li {
+	float:right;
+	display: inline-block;
+}
+
+li a {
+	text-decoration: none;
+	display: inline-block;
+	color: white;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	font-weight: lighter;
+	font-size: 25px;
+	padding:0 15px;
+}
+
+.cool-link::after {
+    content: '';
+    display: block;
+    width: 0;
+    height: 2px;
+    background: White;
+    transition: width .3s;
+}
+
+.cool-link:hover::after{
+	width: 100%;
+	transition: width 1s;
+	
+}
+
+.arrow{
+	
+float:right;
+margin: 37% -400px 50px 0;
+
+}
+
+.arrow p{
+	color:white;
+}

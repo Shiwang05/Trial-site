@@ -1,0 +1,166 @@
+h1 {
+	font-family: "Myriad Pro", "sans-serif";
+	color: black;
+	font-size: 180px;
+	
+}
+
+.about {
+	font-family: "Myriad Pro", "sans-serif";
+	color: #03B8E2;
+	font-size: 30px;
+	position: absolute;
+	right: 0px;
+	left: 135px;
+	top: 260px;
+	bottom: 0px;
+	margin: auto;
+	    	
+}
+
+.about2 {
+	font-family: "Myriad Pro", "sans-serif";
+	color: grey;
+	font-size: 20px;
+	position: absolute;
+	right: 0px;
+	left: 135px;
+	top: 300px;
+	bottom: 0px;
+	margin: auto;
+	    	
+}
+
+.about3 {
+	font-family: "Myriad Pro", "sans-serif";
+	color: #03B8E2;
+	font-size: 30px;
+	position: absolute;
+	right: 0px;
+	left: 0px;
+	top: 50px;
+	bottom: 0px;
+	margin: auto;
+	    	
+}
+
+.about4 {
+		font-family: "Myriad Pro", "sans-serif";
+	color: black;
+	font-size: 20px;
+	position: absolute;
+	right: 0px;
+	left: 0px;
+	top: 100px;
+	bottom: 0px;
+	margin: auto;
+}
+
+h2 {
+	color: white;
+	
+}
+
+section {
+	     
+	     height: 97vh;
+	     
+	     position: relative;
+	
+	    
+} 
+
+.heading {
+	    
+	     position: absolute;
+	
+	     height: 500px;
+	     right: 985px;
+	     left: 0px;
+	     top:  0px;
+	     bottom: -25px;
+	     margin: auto;
+	    
+	   
+}
+
+.rotated {
+  transform: rotate(-90deg); /* Equal to rotateZ(90deg) */
+ 
+}
+
+
+.icon{
+	     position: absolute;
+	     right: 0;
+	     left: 1390px;
+	     top: 2px;
+	     bottom: 0;
+	     margin: auto;
+	
+}
+
+.myDiv1 {
+         
+	    background-color: white;
+	    max-width: 700px;
+	    width: 466px;
+	    height: 64.5vh;
+	    margin: auto;
+	
+	    display: flex;
+	    justify-content:center;
+	   
+	
+	    position: absolute;
+	    right: 466px;
+	    left: 0;
+	    top: 77px;
+	    bottom: 0;
+	    margin: auto;
+	    	
+}
+
+
+.Img {
+          
+	    width: 466px;
+	    height: 64.5vh;
+	    margin: auto;
+	
+	    display: flex;
+	    justify-content:center;
+	  
+	
+	    position: absolute;
+	    right: 466px;
+	    left: 0;
+	    top: 77px;
+	    bottom: 0;
+	    margin: auto;
+	    
+	
+}
+
+.myDiv2 {
+         
+	     
+	     max-width: 700px;
+	     width: 468px;
+	     height: 64.5vh;
+	     margin: auto;
+	
+	     display: flex;
+	     justify-content:center;
+	     align-items:center;
+	
+	     position: absolute;
+	     right: 0;
+	     left: 467px;
+	     top: 77px;
+	     bottom: 0;
+	     margin: auto;
+	    
+}
+
+
